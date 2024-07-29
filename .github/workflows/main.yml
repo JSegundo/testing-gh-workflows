@@ -11,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Simulate long-running process
-        run: sleep 120
+        run: sleep 110
